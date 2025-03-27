@@ -4,6 +4,7 @@ AVL Routine Manipulator Made in Python
 The challenge is to create an AVL tree manipulator that simulates insertion, removal, and search operations.
 
 Commands:
+
 i → Insert
 
 r → Remove
